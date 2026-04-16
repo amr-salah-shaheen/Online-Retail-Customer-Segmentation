@@ -33,7 +33,7 @@ customer-segmentation/
 
 | Property   | Detail |
 |-----------|--------|
-| File      | `data/online_retail_II.xlsx` |
+| Source    | [Online Retail II dataset](https://www.kaggle.com/datasets/kabilan45/online-retail-ii-dataset) |
 | Rows (raw)| 525,461 |
 | Columns   | 8 |
 | Date range| 2009-12-01 07:45:00 → 2010-12-09 20:01:00 |
