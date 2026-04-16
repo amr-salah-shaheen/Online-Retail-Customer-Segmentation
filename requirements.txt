@@ -1,0 +1,15 @@
+# ── Core ──
+numpy
+pandas
+openpyxl
+
+# ── Machine Learning ──
+scikit-learn
+
+# ── Web App ──
+streamlit
+joblib
+
+# ── Visualisation (notebook only) ──
+matplotlib
+seaborn
